@@ -1,7 +1,7 @@
 คู่มือการใช้งาน task3.py
     1.ตรวจสอบว่าในเครื่องต้องมี Python (เวอร์ชัน 3 ขึ้นไป) ในเครื่อง
     2.ติดตั้งไลบรารี third-party ที่จำเป็น
-        task1.py ใช้ third-party 3 ตัว คือ BeautifulSoup และ Requests
+        task2.py ใช้ third-party 3 ตัว คือ BeautifulSoup, Requests, และ Pandas
         Windows:
             เปิด Command Prompt หรือ PowerShell แล้วรันคำสั่ง "pip install requests beautifulsoup4 pandas"
         macOS/Linux:
