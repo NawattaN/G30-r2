@@ -8,6 +8,7 @@ def check_response(r):
         return 0
     else:
         print("Web request failed !")
+        print("Status code: ", r.status_code)
         return 1
     
 def get_all_href_on_page(soup):
